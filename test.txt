@@ -1,2 +1,3 @@
 createing a new branch is quick he simple
 git merge --no-ff test
+git merge --no-ff test2
